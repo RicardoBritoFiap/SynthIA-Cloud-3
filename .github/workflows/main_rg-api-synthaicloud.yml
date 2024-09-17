@@ -28,7 +28,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: java-app
-          path: '${{ https://github.com/RicardoBritoFiap/SynthIA-Cloud-3 }}/target/*.war'
+          path: '${{ .com/RicardoBritoFiap/SynthIA-Cloud-3 }}/target/*.war'
 
   deploy:
     runs-on: windows-latest
