@@ -28,7 +28,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: java-app
-          path: '${{ RicardoBritoFiap/SynthAPI/SynthApiApplication.java }}/target/*.war'
+          path: '${{ github.workflow }}/target/*.war'
 
   deploy:
     runs-on: windows-latest
