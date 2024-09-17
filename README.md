@@ -24,7 +24,7 @@ Esse repoitorio não possue toda a nossa aplicação, trata-se de uma parte mais
 ## 📊Diagrama de Classe/Modelo Lógico 
 <img src="./diagramas/diagrama de classes.png">
 <img src="./diagramas/diagrama modelo logico.png">
-<img src="./diagramas/diagrama modelo logico.png">
-<img src="./diagramas/diagrama modelo logico.png">
+<img src="./diagramas/Arquitetura da solução.jpg">
+
 
 ## [🎬Link do vídeo](https://youtu.be/VOWnzfBZNa8) ##
