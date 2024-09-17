@@ -28,14 +28,14 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: java-app
-          path: '${{ github.workspace }}/target/*.war'
+          path: '${{ https://github.com/RicardoBritoFiap/SynthIA-Cloud-3 }}/target/*.war'
 
   deploy:
     runs-on: windows-latest
     needs: build
     environment:
       name: 'Production'
-      url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
+      url: ${{ steps.deploy-to-webapp.outputs.webapp-rg-api-synthaicloud-efe5esgkd7bve4fs.brazilsouth-01.azurewebsites.net }}
 
     steps:
       - name: Download artifact from build job
