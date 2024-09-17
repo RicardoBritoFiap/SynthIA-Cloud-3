@@ -1,6 +1,7 @@
 # 🚀SynthAI API #
-Esse repositório trás o crud da API referente ao Aproveitamento das Oportunidades de Vendas, que analisa os dados dos clientes e utiliza algoritmos de recomendação para identificar oportunidades de venda cruzadas e adicionais. Dessa forma, são oferecidos produtos ou serviços extras que atendam às necessidades e preferências individuais de cada cliente. Esse processo resulta em uma experiência mais personalizada e relevante, aumentando as taxas de conversão e otimizando as receitas.
-O restante será reservado para apresentar nas Sprints seguintes do Challenge.
+Esse repositório é responsavel pela parte de arquitetura em cloud da solução SynthIA referente ao Aproveitamento das Oportunidades de Vendas, que analisa os dados dos clientes e utiliza algoritmos de recomendação para identificar oportunidades de venda cruzadas e adicionais. Dessa forma, são oferecidos produtos ou serviços extras que atendam às necessidades e preferências individuais de cada cliente. Esse processo resulta em uma experiência mais personalizada e relevante, aumentando as taxas de conversão e otimizando as receitas.
+
+Esse repoitorio não possue toda a nossa aplicação, trata-se de uma parte mais básica de crud de cadastro que escolhemos subir em cloud devido a dificuldades com a integração com  IA.
 
 👥 **Integrantes do Grupo:**
 
@@ -16,12 +17,12 @@ O restante será reservado para apresentar nas Sprints seguintes do Challenge.
 
 # [📋Endpoints da API] #
 
-### *Os endpoints e requisições da API podem ser acessadas rodando a API e utilizando o link abaixo* ###
-http://localhost:8080/swagger-ui/index.html#/
+# Como Subir a aplicação! #
+
 
 
 ## 📊Diagrama de Classe/Modelo Lógico 
 <img src="./diagramas/diagrama de classes.png">
 <img src="./diagramas/diagrama modelo logico.png">
 
-## [🎬Link do vídeo](https://youtu.be/VYRM56kuzSs) ##
+## [🎬Link do vídeo]() ##
